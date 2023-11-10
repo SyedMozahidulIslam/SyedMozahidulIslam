@@ -18,8 +18,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=500&size=36&color=cyan&center=true&vCenter=true&width=600&height=100&lines=I'm+Syed+Mozahidul+Islam+🎓;CSE+Student+at+👾;North+South+University+🤖;Muslim+and+Bangladeshi+🔥">
 </p>
 
-<img align=”right” alt=”coding” width=”400” src=”https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmozahidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="syedmozahidulislam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/smi_fahim1" target="blank"><img src="https://img.shields.io/twitter/follow/smi_fahim1?logo=twitter&style=for-the-badge" alt="smi_fahim1" /></a> </p>
