@@ -44,6 +44,9 @@
 
 - ⚡ Fun fact **I am Extrovert**
 
+![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white) ![](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-GeForceMX230-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smi_fahim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smi_fahim1" height="30" width="40" /></a>
