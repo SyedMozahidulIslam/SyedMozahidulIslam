@@ -1,5 +1,22 @@
-<h1 align="center">Assalamu Alaikum, Hi 👋, I'm Syed Mozahidul Islam</h1>
-<h3 align="center">A passionate Computer Engineering student from Bangladesh</h3>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FHShubho/FHShubho/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+
+<div>
+  <ul align="center">
+    <h2 style="display: inline-block">Aww <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="left:50%; top:50%; margin-top:-40px;" height="50"> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" style="margin-top:-10px;"/> </h2>
+  </ul>
+</div>
+
+
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=500&size=36&color=cyan&center=true&vCenter=true&width=600&height=100&lines=I'm+Fahimul+Houque+🎓;A+flawed+human+👾;Doing+Research+on+AI+🤖;Loves+to+learn+new+stuffs+🔥">
+</p>
 
 <img align=”right” alt=”coding” width=”400” src=”https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
 
