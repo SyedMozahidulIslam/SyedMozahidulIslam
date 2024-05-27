@@ -65,8 +65,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmozahidulislam&" alt="syedmozahidulislam" /></p>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
-
 <p align="left" style="margin-bottom=-50">
     <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
