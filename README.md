@@ -1,5 +1,10 @@
-![snake gif](https://github.com/SyedMozahidulIslam/SyedMozahidulIslam/blob/output/github-contribution-grid-snake.gif)
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/output/github-contribution-grid-snake-dark_update.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/output/github-contribution-grid-snake_update.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 <div>
   <ul align="center">
     <h2 style="display: inline-block">Assalamu Alaikum <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="left:50%; top:50%; margin-top:-40px;" height="50"> Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" style="margin-top:-10px;"/> </h2>
