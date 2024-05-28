@@ -6,6 +6,9 @@
 </picture>
 </div>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <div>
   <ul align="center">
     <h2 style="display: inline-block">Assalamu Alaikum <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="left:50%; top:50%; margin-top:-40px;" height="50"> Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" height="40" style="margin-top:-10px;"/> </h2>
