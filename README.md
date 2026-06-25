@@ -244,7 +244,7 @@
       <!-- CERT IMAGE PLACEHOLDER 1 -->
       <!-- 👇 Replace the src below with your actual certificate thumbnail image URL -->
       <!-- Example: src="https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/main/certs/excel-mastery.png" -->
-      <img src="https://github.com/SyedMozahidulIslam/SyedMozahidulIslam/blob/main/certs/certificate-excel-mastery.png?raw=true" alt="Excel Mastery" height="28"/>
+      <img src="https://img.shields.io/badge/📊%20Excel%20Mastery-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel Mastery" height="28"/>
     </td>
     <td><b>Grameenphone Academy</b></td>
     <td>
@@ -263,7 +263,7 @@
     <td><b>Grameenphone Academy</b></td>
     <td>
       <!-- 👇 Replace the # below with your actual credential link -->
-      <a href="#PASTE_PERSONAL_BRANDING_AI_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/a18b2213f2f0">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
@@ -276,7 +276,7 @@
     <td><b>Grameenphone Academy</b></td>
     <td>
       <!-- 👇 Replace the # below with your actual credential link -->
-      <a href="#PASTE_WORK_ETHICS_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/be6498d1c25e">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
@@ -289,7 +289,7 @@
     <td><b>Grameenphone Academy</b></td>
     <td>
       <!-- 👇 Replace the # below with your actual credential link -->
-      <a href="#PASTE_TEST_HACKS_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/1aa080a8015c">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
@@ -302,7 +302,7 @@
     <td><b>Grameenphone Academy</b></td>
     <td>
       <!-- 👇 Replace the # below with your actual credential link -->
-      <a href="#PASTE_GENAI_PROMPT_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/b1af9462aea2">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
@@ -315,7 +315,7 @@
     <td><b>Grameenphone Academy</b></td>
     <td>
       <!-- 👇 Replace the # below with your actual credential link -->
-      <a href="#PASTE_AI_WORKFLOWS_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/c69dce2d3d36">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
