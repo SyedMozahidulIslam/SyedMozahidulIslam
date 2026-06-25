@@ -250,7 +250,7 @@
     <td>
       <!-- 👇 Replace the # below with your actual credential/certificate link -->
       <!-- Example: href="https://academy.grameenphone.com/certificates/your-cert-id" -->
-      <a href="#PASTE_EXCEL_MASTERY_CREDENTIAL_LINK_HERE">
+      <a href="https://www.grameenphone.academy/cert/99710b21d936">
         <img src="https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </a>
     </td>
