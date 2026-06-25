@@ -380,8 +380,6 @@
 
 <br/>
 
-> 💡 **Note on Private Contribution Statistics:** GitHub does not expose private contribution counts publicly via badges. However, in the **GitHub Stats card above**, private contributions are already counted when `count_private=true` is set in the URL. To view your own full private stats, navigate to your GitHub profile and check the contribution graph — it shows all contributions including private ones when you're logged in.
-
 ---
 
 <!-- ==================== DYNAMIC QUOTE ==================== -->
@@ -408,12 +406,11 @@
 
 <!--
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PASTE_YOUR_WAKATIME_USERNAME_HERE&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@PASTE_YOUR_WAKATIME_USERNAME_HERE)
--->
 
 > 📌 *WakaTime integration available — see the `waka-readme.yml` workflow file included in this package to enable live coding time tracking.*
 
 ---
-
+-->
 <!-- ==================== CONTRIBUTION CHART FOOTER ==================== -->
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="contribution trophy"/>
