@@ -28,7 +28,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syedmozahidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="syedmozahidulislam" />
   &nbsp;
-  <a href="https://twitter.com/smi_fahim1" target="blank">
+  <a href="https://www.linkedin.com/in/syed-mozahidul-islam-1b4958367" target="blank">
     <img src="https://img.shields.io/twitter/follow/smi_fahim1?logo=twitter&style=for-the-badge" alt="smi_fahim1" />
   </a>
 </p>
@@ -36,9 +36,9 @@
 ---
 
 <!-- ==================== PROFESSIONAL SUMMARY ==================== -->
-## 🧑‍💼 About Me — Professional Summary
+## 🧑‍💼 About Me
 
-> *CSE Graduate · AI & ML Major · Branding Executive · Tech Meets Business*
+> *CSE Graduate · AI & ML Major · Branding Executive · OPPO Bangladesh*
 
 <table>
 <tr>
@@ -46,25 +46,25 @@
 
 🎓 **CSE Graduate** from **North South University (NSU)** with a major in **Artificial Intelligence & Machine Learning**
 
-💼 Currently serving as **Branding Executive at OPPO Bangladesh** — promoted from the **Management Trainee Officer (MTO)** program
+💼 Currently serving as **Branding Executive at OPPO Bangladesh** , promoted from the **Management Trainee Officer (MTO)** program
 
 📞 Previously at **Grameenphone** handling **Customer Interactions & Service Operations**
 
-🧠 Skilled in **Coordination, Reporting, Research, Branding, Designing & Problem Solving**
+🧠 Skilled in **Coordination, Team Leading, Reporting, Research, Branding, Designing & Problem Solving**
 
-🌍 Based in **Bangladesh** | Muslim & Proud 🇧🇩
+🌍 Based in **Bangladesh** | Proud Muslim | 25 Years Old 
 
 </td>
 </tr>
 </table>
 
 - 🔭 I'm currently learning **Python, Machine Learning, Deep Learning, AI Agents, Power BI**
-- 🌱 I'm currently leveling up in **Data Analytics, Business Intelligence & Digital Marketing**
+- 🌱 I'm currently leveling up in **Data Analytics, Content Analysis, Business Intelligence & Digital Marketing**
 - 👯 I'm looking for guidance in **Machine Learning, AI & Branding Strategy**
-- 💬 Ask me about **C, C++, Java, Python, AI, Branding, Business Intelligence**
+- 💬 Ask me about **C, C++, Java, Python, AI, Smartphones, Branding, Corporate Ethics, Sales**
 - 📫 Reach me at **smifahim@gmail.com**
 - 📄 Explore my work: [github.com/SyedMozahidulIslam](https://github.com/SyedMozahidulIslam)
-- ⚡ Fun fact: **I'm an Extrovert who loves connecting people with technology!**
+- ⚡ Fun fact: **I'm an Extrovert who loves connecting people with technology (Telecom)!**
 
 ![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
 ![](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -88,7 +88,7 @@
 </a>
 
 <!-- Facebook -->
-<a href="https://fb.com/smi_fahim1" target="blank">
+<a href="https://fb.com/smifahim2" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - smi_fahim1" height="30" width="40" />
 </a>
 
@@ -112,26 +112,8 @@
      👇 Replace the # below with your actual LinkedIn profile URL
      Example: https://linkedin.com/in/syedmozahidulislam
      ===================================================================== -->
-<a href="#PASTE_YOUR_LINKEDIN_URL_HERE" target="blank">
+<a href="https://www.linkedin.com/in/syed-mozahidul-islam-1b4958367" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<!-- =====================================================================
-     SNAPCHAT PLACEHOLDER
-     👇 Replace the # below with your actual Snapchat profile URL
-     Example: https://www.snapchat.com/add/your_username
-     ===================================================================== -->
-<a href="#PASTE_YOUR_SNAPCHAT_URL_HERE" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat" height="30" width="40" />
-</a>
-
-<!-- =====================================================================
-     WECHAT PLACEHOLDER
-     👇 Replace the # below with your WeChat ID page or link
-     Example: https://web.wechat.com/ or a QR code link
-     ===================================================================== -->
-<a href="#PASTE_YOUR_WECHAT_URL_HERE" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wechat.svg" alt="WeChat" height="30" width="40" />
 </a>
 
 </p>
