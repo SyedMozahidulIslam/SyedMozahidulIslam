@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=syedmozahidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="syedmozahidulislam" />
   &nbsp;
   <a href="https://www.linkedin.com/in/syed-mozahidul-islam-1b4958367" target="blank">
-    <img src="https://img.shields.io/twitter/follow/smi_fahim1?logo=twitter&style=for-the-badge" alt="smi_fahim1" />
+    <img src="https://img.shields.io/twitter/follow/smi_fahim1?logo=twitter&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
