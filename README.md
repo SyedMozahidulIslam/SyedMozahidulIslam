@@ -244,7 +244,7 @@
       <!-- CERT IMAGE PLACEHOLDER 1 -->
       <!-- 👇 Replace the src below with your actual certificate thumbnail image URL -->
       <!-- Example: src="https://raw.githubusercontent.com/SyedMozahidulIslam/SyedMozahidulIslam/main/certs/excel-mastery.png" -->
-      <img src="https://img.shields.io/badge/📊%20Excel%20Mastery-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel Mastery" height="28"/>
+      <img src="https://github.com/SyedMozahidulIslam/SyedMozahidulIslam/blob/main/certs/certificate-excel-mastery.png?raw=true" alt="Excel Mastery" height="28"/>
     </td>
     <td><b>Grameenphone Academy</b></td>
     <td>
