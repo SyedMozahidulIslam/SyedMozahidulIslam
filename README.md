@@ -213,8 +213,6 @@
 <!-- ==================== CERTIFICATIONS & ACHIEVEMENTS ==================== -->
 ## 🏆 Certifications & Achievements
 
-> *All certifications earned through Grameenphone Academy and professional development programs*
-
 <table align="center">
   <tr>
     <th>🎖️ Certificate</th>
@@ -303,10 +301,6 @@
     </td>
   </tr>
 </table>
-
-> 💡 **How to add certificate thumbnails:** Upload your certificate images to your GitHub repo (e.g., in a `/certs/` folder), then replace the `src` in each `<img>` tag above with the raw GitHub URL of your image.
-
----
 
 <!-- ==================== GITHUB STATISTICS ==================== -->
 ## 📊 GitHub Statistics
