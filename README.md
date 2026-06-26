@@ -210,6 +210,172 @@
 
 ---
 
+<!-- ==================== WORK EXPERIENCE ==================== -->
+
+## 💼 Work Experience
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=500&size=28&color=cyan&center=true&vCenter=true&width=700&height=70&lines=My+Professional+Journey+🚀;Where+I+Have+Worked+💼;Building+Experience+One+Role+at+a+Time+⚡">
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="working gif"/>
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--              OPPO — BRANDING EXECUTIVE (CURRENT)            -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="120" alt="star badge"/>
+
+### 🟢 Branding Executive &nbsp;|&nbsp; OPPO Bangladesh
+
+![Since](https://img.shields.io/badge/🗓️%20May%202026-Present-00C853?style=for-the-badge)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢%20Status-Currently%20Here-00FFAA?style=flat-square)
+&nbsp;
+![Promoted](https://img.shields.io/badge/⬆️%20Promoted%20from-MTO%20Program-00BFFF?style=flat-square)
+
+> 🌟 *Promoted from the Management Trainee Officer program into this role*
+
+- 📣 &nbsp; Managed content planning and publishing across OPPO's all global digital platforms
+- 🗂️ &nbsp; Developed and maintained content management systems using Notion and Excel improving workflow efficiency and documentation
+- 📊 &nbsp; Conducted brand marketing initiatives through market research, meeting coordination, webpage design updates, social media monitoring, and content performance reporting
+
+**Skills used:**
+&nbsp;
+![Branding](https://img.shields.io/badge/Branding-FF4500?style=flat-square)
+![Content Management](https://img.shields.io/badge/Content%20Management-00BFFF?style=flat-square)
+![Market Research](https://img.shields.io/badge/Market%20Research-9B59B6?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Social Media](https://img.shields.io/badge/Social%20Media%20Monitoring-E4405F?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--          OPPO — MANAGEMENT TRAINEE OFFICER                  -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="rocket gif"/>
+
+### 🔵 Management Trainee Officer &nbsp;|&nbsp; OPPO Bangladesh
+
+![Duration](https://img.shields.io/badge/🗓️%20Dec%202025-May%202026-0077FF?style=for-the-badge)
+
+- ⚙️ &nbsp; Supported day-to-day operations while ensuring alignment with company guidelines
+- 🔍 &nbsp; Conducted market observation and competitor analysis to identify trends and customer behavior insights
+- 🤝 &nbsp; Collaborated with cross-functional teams to ensure smooth service workflow
+
+**Skills used:**
+&nbsp;
+![Operations](https://img.shields.io/badge/Operations-0077FF?style=flat-square)
+![Competitor Analysis](https://img.shields.io/badge/Competitor%20Analysis-FF6B35?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Cross--functional%20Teams-34A853?style=flat-square)
+![Market Observation](https://img.shields.io/badge/Market%20Observation-F4D03F?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--         GRAMEENPHONE — CUSTOMER SUPPORT OFFICER             -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" alt="support gif"/>
+
+### 🟣 Customer Support Officer &nbsp;|&nbsp; Grameenphone Ltd
+
+![Duration](https://img.shields.io/badge/🗓️%20Sep%202025-Dec%202025-7B00FF?style=for-the-badge)
+
+- 📞 &nbsp; Handled high-volume customer interactions across multiple channels and collaborated with internal teams to resolve complex issues
+- ✅ &nbsp; Provided accurate information on products, services, and policies while maintaining high customer satisfaction levels
+- 🛠️ &nbsp; Managed service requests, account updates, and complaint resolution using RMS and CRM
+- 📋 &nbsp; Maintained detailed documentation and reports of customer interactions to support operational efficiency
+
+**Skills used:**
+&nbsp;
+![CRM](https://img.shields.io/badge/CRM-00A4EF?style=flat-square)
+![RMS](https://img.shields.io/badge/RMS-009999?style=flat-square)
+![Customer Service](https://img.shields.io/badge/Customer%20Service-7B00FF?style=flat-square)
+![Documentation](https://img.shields.io/badge/Documentation-444444?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--               GAO TEK — HR INTERN                           -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="hr gif"/>
+
+### 🟠 HR Intern &nbsp;|&nbsp; GAO Tek Inc
+
+![Duration](https://img.shields.io/badge/🗓️%20Jul%202025-Sep%202025-FF8C00?style=for-the-badge)
+
+- 🧑‍💼 &nbsp; Assisted in recruitment processes including candidate sourcing, screening, and interview coordination
+- 🗄️ &nbsp; Maintained candidate databases and supported HR documentation, reporting, and communication processes
+
+**Skills used:**
+&nbsp;
+![Recruitment](https://img.shields.io/badge/Recruitment-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Talent Acquisition](https://img.shields.io/badge/Talent%20Acquisition-FF8C00?style=flat-square)
+![HR Documentation](https://img.shields.io/badge/HR%20Documentation-217346?style=flat-square)
+![HRIS](https://img.shields.io/badge/HRIS-0052CC?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--          UNIPULER — DIGITAL MARKETING INTERN                -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100" alt="marketing gif"/>
+
+### 🟡 Digital Marketing Intern &nbsp;|&nbsp; Unipuler Ltd
+
+![Duration](https://img.shields.io/badge/🗓️%20May%202025-Jul%202025-FF8C00?style=for-the-badge)
+
+> 🌱 *Where the professional journey began*
+
+- 📱 &nbsp; Assisted in planning and executing digital marketing campaigns, including social media management and content creation to increase engagement
+- 📈 &nbsp; Analyzed campaign performance using basic metrics and contributed to lead generation and brand visibility improvement
+
+**Skills used:**
+&nbsp;
+![Social Media](https://img.shields.io/badge/Social%20Media-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![Content Creation](https://img.shields.io/badge/Content%20Creation-FF8C00?style=flat-square)
+![Campaign Analytics](https://img.shields.io/badge/Campaign%20Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+![Lead Generation](https://img.shields.io/badge/Lead%20Generation-00C853?style=flat-square)
+
+---
+
+<!-- ==================== CAREER TIMELINE ==================== -->
+
+## 🗺️ Career Timeline at a Glance
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=400&size=15&color=cyan&center=true&vCenter=true&width=700&height=40&lines=May+2025+→+Digital+Marketing+Intern+%40+Unipuler+Ltd;Jul+2025+→+HR+Intern+%40+GAO+Tek+Inc;Sep+2025+→+Customer+Support+Officer+%40+Grameenphone;Dec+2025+→+Management+Trainee+Officer+%40+OPPO+Bangladesh;May+2026+→+Branding+Executive+%40+OPPO+Bangladesh+🟢">
+</p>
+
+<div align="center">
+
+| 📅 Period | 💼 Role | 🏢 Company |
+|:---:|:---:|:---:|
+| May 2026 – Present 🟢 | Branding Executive | OPPO Bangladesh |
+| Dec 2025 – May 2026 | Management Trainee Officer | OPPO Bangladesh |
+| Sep 2025 – Dec 2025 | Customer Support Officer | Grameenphone Ltd |
+| Jul 2025 – Sep 2025 | HR Intern | GAO Tek Inc |
+| May 2025 – Jul 2025 | Digital Marketing Intern | Unipuler Ltd |
+
+</div>
+
+<p align="left" style="margin-bottom=-50">
+    <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+</p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" align="bottom"/>
+
+---
+
 <!-- ==================== CERTIFICATIONS & ACHIEVEMENTS ==================== -->
 ## 🏆 Certifications & Achievements
 
