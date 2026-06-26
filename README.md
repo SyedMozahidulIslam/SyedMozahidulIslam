@@ -468,6 +468,144 @@
   </tr>
 </table>
 
+<!-- ==================== EDUCATION SECTION ==================== -->
+
+## 🎓 Education
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=500&size=28&color=cyan&center=true&vCenter=true&width=700&height=70&lines=My+Academic+Journey+🎓;Where+It+All+Began+📚;Built+on+Knowledge+%26+Excellence+⭐">
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="360" alt="education gif"/>
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--            NORTH SOUTH UNIVERSITY — BSc CSE                 -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="130" alt="university gif"/>
+
+### 🏛️ Bachelor of Science in Computer Science & Engineering
+
+![University](https://img.shields.io/badge/🏫%20North%20South%20University-Dhaka-00BFFF?style=for-the-badge)
+&nbsp;
+![Year](https://img.shields.io/badge/🗓️%20Graduated-2025-00C853?style=for-the-badge)
+
+| 📌 Detail | 📋 Info |
+|:---|:---|
+| 🏫 **Institution** | North South University, Dhaka |
+| 📖 **Degree** | Bachelor of Science in Computer Science & Engineering |
+| 🤖 **Major** | Machine Learning & Artificial Intelligence |
+| 📅 **Graduation Year** | 2025 |
+| 📊 **CGPA** | 3.16 / 4.00 |
+| 💯 **Percentage** | 85% |
+
+**Highlights:**
+&nbsp;
+![AI](https://img.shields.io/badge/Major-Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Major-Machine%20Learning-FF6B35?style=flat-square)
+![CSE](https://img.shields.io/badge/Degree-BSc%20CSE-00BFFF?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-3.16%20%2F%204.00-00C853?style=flat-square)
+![Percentage](https://img.shields.io/badge/Result-85%25-gold?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--         CUMILLA GOVT. CITY COLLEGE — HSC                    -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="110" alt="college gif"/>
+
+### 🏫 Higher Secondary Certificate (HSC)
+
+![College](https://img.shields.io/badge/🏫%20Cumilla%20Govt.%20City%20College-Cumilla-9B59B6?style=for-the-badge)
+&nbsp;
+![Year](https://img.shields.io/badge/🗓️%20Year-2020-FF6B35?style=for-the-badge)
+
+| 📌 Detail | 📋 Info |
+|:---|:---|
+| 🏫 **Institution** | Cumilla Govt. City College |
+| 📖 **Group** | Science |
+| 🗺️ **Board** | Cumilla |
+| 📅 **Year** | 2020 |
+| 📊 **GPA** | 5.00 / 5.00 |
+| 💯 **Percentage** | 100% |
+| 🏅 **Grade** | Golden A+ ⭐ |
+
+**Highlights:**
+&nbsp;
+![Science](https://img.shields.io/badge/Group-Science-9B59B6?style=flat-square)
+![Board](https://img.shields.io/badge/Board-Cumilla-0077FF?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-5.00%20%2F%205.00-00C853?style=flat-square)
+![Percentage](https://img.shields.io/badge/Result-100%25-gold?style=flat-square)
+![Grade](https://img.shields.io/badge/Grade-Golden%20A%2B%20⭐-FFD700?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--            CUMILLA HIGH SCHOOL — SSC                        -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="110" alt="school gif"/>
+
+### 🏫 Secondary School Certificate (SSC)
+
+![School](https://img.shields.io/badge/🏫%20Cumilla%20High%20School-Cumilla-E91E63?style=for-the-badge)
+&nbsp;
+![Year](https://img.shields.io/badge/🗓️%20Year-2018-00BFFF?style=for-the-badge)
+
+| 📌 Detail | 📋 Info |
+|:---|:---|
+| 🏫 **Institution** | Cumilla High School |
+| 📖 **Group** | Science |
+| 🗺️ **Board** | Cumilla |
+| 📅 **Year** | 2018 |
+| 📊 **GPA** | 4.72 / 5.00 |
+| 💯 **Percentage** | 94.4% |
+| 🏅 **Grade** | A+ |
+
+**Highlights:**
+&nbsp;
+![Science](https://img.shields.io/badge/Group-Science-E91E63?style=flat-square)
+![Board](https://img.shields.io/badge/Board-Cumilla-0077FF?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-4.72%20%2F%205.00-00C853?style=flat-square)
+![Percentage](https://img.shields.io/badge/Result-94.4%25-gold?style=flat-square)
+![Grade](https://img.shields.io/badge/Grade-A%2B-FF4500?style=flat-square)
+
+---
+
+<!-- ==================== EDUCATION SNAPSHOT ==================== -->
+
+## 📊 Academic Snapshot
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=400&size=15&color=cyan&center=true&vCenter=true&width=700&height=40&lines=SSC+2018+%7C+GPA+4.72%2F5.00+%7C+94.4%25+%7C+Cumilla+High+School;HSC+2020+%7C+GPA+5.00%2F5.00+%7C+100%25+%7C+Golden+A%2B+%7C+Cumilla+Govt.+City+College;BSc+CSE+2025+%7C+CGPA+3.16%2F4.00+%7C+85%25+%7C+AI+%26+ML+Major+%7C+NSU">
+</p>
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Result | 💯 % |
+|:---:|:---:|:---:|:---:|:---:|
+| BSc in CSE | North South University | 2025 | CGPA 3.16 / 4.00 | 85% |
+| HSC — Science | Cumilla Govt. City College | 2020 | GPA 5.00 / 5.00 ⭐ | 100% |
+| SSC — Science | Cumilla High School | 2018 | GPA 4.72 / 5.00 | 94.4% |
+
+</div>
+
+<p align="left">
+    <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+</p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" align="bottom"/>
+
+
+
+
+
+
 <!-- ==================== GITHUB STATISTICS ==================== -->
 ## 📊 GitHub Statistics
 
