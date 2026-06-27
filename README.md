@@ -714,6 +714,82 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="contribution trophy"/>
 </p>
 
+<!-- ==================== FOOTBALL SECTION ==================== -->
+
+## ⚽ I am a Football Lover
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=500&size=28&color=cyan&center=true&vCenter=true&width=700&height=70&lines=Not+Just+a+Dev+—+A+Football+Lover+⚽;Culer+Till+I+Die+🔵🔴;Vamos+Argentina+🇦🇷;The+Game+Runs+in+My+Blood+💙">
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                    FC BARCELONA                              -->
+<!-- ============================================================ -->
+
+### 🔵🔴 FC Barcelona &nbsp;·&nbsp; *Més que un club*
+
+![Club](https://img.shields.io/badge/Club-FC%20Barcelona-A50044?style=for-the-badge&logoColor=white)
+&nbsp;
+![League](https://img.shields.io/badge/Liga-La%20Liga%20🇪🇸-FF6B35?style=for-the-badge)
+&nbsp;
+![Since](https://img.shields.io/badge/Fan-Forever%20Culer-004D98?style=for-the-badge)
+
+> *"More than a club."* &nbsp;🔵🔴
+
+&nbsp;&nbsp;&nbsp; 🏟️ &nbsp; **Home** — Camp Nou, Barcelona, Spain
+&nbsp;&nbsp;&nbsp; 🏆 &nbsp; **Trophies** — La Liga · Champions League · Copa del Rey & more
+&nbsp;&nbsp;&nbsp; 💙 &nbsp; **Why Barça?** — The philosophy, the tiki-taka, the identity. It's not just football — it's art.
+
+![Barça](https://img.shields.io/badge/🔵%20Blaugrana-004D98?style=flat-square)
+![Culer](https://img.shields.io/badge/Forever-Culer%20❤️-A50044?style=flat-square)
+![La Liga](https://img.shields.io/badge/La%20Liga-🇪🇸-FF6B35?style=flat-square)
+![UCL](https://img.shields.io/badge/Champions%20League-⭐-001489?style=flat-square)
+
+---
+
+<!-- ============================================================ -->
+<!--                  ARGENTINA NT                                -->
+<!-- ============================================================ -->
+
+### 🇦🇷 Argentina National Team &nbsp;·&nbsp; *La Albiceleste*
+
+![Nation](https://img.shields.io/badge/Nation-Argentina%20🇦🇷-74ACDF?style=for-the-badge&logoColor=white)
+&nbsp;
+![WC](https://img.shields.io/badge/World%20Champions-2022%20Qatar%20🏆-gold?style=for-the-badge)
+&nbsp;
+![Fan](https://img.shields.io/badge/Fan-La%20Albiceleste-FFFFFF?style=for-the-badge&labelColor=74ACDF)
+
+> *"Vamos, vamos Argentina — Esta noche tenemos que ganar."* 🇦🇷🏆
+
+&nbsp;&nbsp;&nbsp; 🏆 &nbsp; **World Cup Wins** — 1978 · 1986 · 2022 ⭐⭐⭐
+&nbsp;&nbsp;&nbsp; 🌟 &nbsp; **Copa América** — 15 titles (most in history)
+&nbsp;&nbsp;&nbsp; 💙 &nbsp; **Why Argentina?** — The passion, the hunger, the never-give-up spirit. Witnessing 2022 was a moment of a lifetime.
+
+![World Cup](https://img.shields.io/badge/🏆%20World%20Cup-2022%20Champions-gold?style=flat-square)
+![Albiceleste](https://img.shields.io/badge/La-Albiceleste%20🇦🇷-74ACDF?style=flat-square)
+![Copa](https://img.shields.io/badge/Copa%20América-15x%20Champions-FFFFFF?style=flat-square&labelColor=74ACDF)
+![Passion](https://img.shields.io/badge/Pure-Passion%20🔥-FF4500?style=flat-square)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="200" alt="football celebration gif"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o6Zt7DY5mj38nkzEQ/giphy.gif" width="200" alt="trophy gif"/>
+</div>
+
+<br/>
+
+<p align="center">
+
+![Barcelona](https://img.shields.io/badge/⚽%20FC%20Barcelona-Culer%20for%20Life-A50044?style=for-the-badge)
+&nbsp;&nbsp;
+![Argentina](https://img.shields.io/badge/🇦🇷%20Argentina-Vamos%20La%20Albiceleste-74ACDF?style=for-the-badge)
+
+</p>
+
 <!-- ==================== FOOTER GIFS ==================== -->
 <p align="left" style="margin-bottom=-50">
     <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
