@@ -612,7 +612,8 @@
 <!-- Row 1: Stats + Streak -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedmozahidulislam&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<!-- GitHub Stats Card -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedmozahidulislam&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmozahidulislam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -621,7 +622,8 @@
 <!-- Row 2: Top Languages + WakaTime / Coding Percentage -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmozahidulislam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages" />
+<!-- Top Languages Card -->
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syedmozahidulislam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=syedmozahidulislam&repo=SyedMozahidulIslam&theme=tokyonight&hide_border=true" alt="Profile Repo Pin" />
 
