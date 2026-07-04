@@ -625,25 +625,12 @@
 <!-- Top Languages Card -->
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syedmozahidulislam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=syedmozahidulislam&repo=SyedMozahidulIslam&theme=tokyonight&hide_border=true" alt="Profile Repo Pin" />
-
 </div>
 
 <!-- Row 3: Activity Graph -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedmozahidulislam&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ==================== GITHUB TROPHIES ==================== -->
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syedmozahidulislam&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
